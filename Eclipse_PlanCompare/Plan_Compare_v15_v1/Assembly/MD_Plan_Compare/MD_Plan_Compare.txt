@@ -1,0 +1,6 @@
+advancedusers,jane/joe
+calcbinsize,0.2
+noteticker,5,***number of seconds for the notes button to refresh
+segmentcount,1, 1=segment count on 0 = segment count off
+doseunit,0, 0 = cGy  1 = Gy
+volumes,120,115,110,105,100,50,20,***%Dose at which you want to volumes displayed [cc/%]

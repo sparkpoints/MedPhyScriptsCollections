@@ -1,0 +1,26 @@
+Bladder,RV_AD,8000,15,0
+Bladder,RV_AD,7500,25,0
+Bladder,RV_AD,7000,35,0
+Bladder,RV_AD,6500,50,0
+Rectum,RV_AD,7500,15,0
+Rectum,RV_AD,7000,25,0
+Rectum,RV_AD,6500,35,0
+Rectum,RV_AD,6000,50,0
+//Rectum,RD_AV,50,50,0
+//Rectum,RD_RV,50,50,0
+Penile Bulb,AD_Max,1,5250,0
+Femoral Head Rt,AD_Max,1,6000,0
+Femoral Head Lt,AD_Max,1,6000,0
+Large Bowel,RV_AD,7000,1,0
+Large Bowel,RV_AD,6000,10,0
+//PTV initial,AD_RV,95,4500,1
+//PTV Boost,AD_RV,95,7740,1
+//PTV Boost,AD_RV,95,2520,1
+//Bladder-PTV,RV_AD,8000,15,0
+//Bladder-PTV,RV_AD,7500,25,0
+//Bladder-PTV,RV_AD,7000,35,0
+//Bladder-PTV,RV_AD,6500,50,0
+//PTV initial,AD_RV,95,4500,1
+//PTV initial,AD_RV,90,4500,1
+//PTV initial,AD_RV,98,4500,1
+//CTV P + SV,AD_RV,98,4500,1
